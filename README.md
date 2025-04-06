@@ -15,7 +15,7 @@ Your crystal ball for Indian stock market predictions! 🔮 A sleek dashboard th
 1. **Clone & Navigate:**
 ```bash
 git clone https://github.com/Mudassir-A/stock-price-predictions.git
-cd stock-price-prediction
+cd stock-price-predictions
 ```
 
 2. **Set Up Environment:**
