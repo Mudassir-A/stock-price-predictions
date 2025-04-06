@@ -2,3 +2,9 @@ streamlit
 plotly
 pandas
 numpy
+matplotlib
+joblib
+ta
+yfinance
+scikit-learn
+tensorflow
